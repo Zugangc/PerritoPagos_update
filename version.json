@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1",
-  "release_notes": "Corrección de errores y mejora de rendimiento.",
-  "download_url": "https://github.com/Zugangc/PerritoPagos_update/releases/download/v2.2.1/PerritoPagos.exe"
+  "version": "2.2.3",
+  "release_notes": "Corrección de programación de envios de mensajes y mejora de rendimiento.",
+  "download_url": "https://github.com/Zugangc/PerritoPagos_update/releases/download/v2.2.3/PerritoPagos.exe"
 }
